@@ -1,0 +1,16 @@
+;;; auctex
+(unless (string= (getenv "HOSTNAME") "vmus")
+  (require 'tex-site)
+  (load "auctex.el" nil t t)
+  (load "preview-latex.el" nil t t)
+
+  (setq TeX-default-mode 'japanese-latex-mode)
+  (setq TeX-force-default-mode 'japanese-latex-mode)
+  (setq japanese-TeX-command-default "pTeX")
+  (setq japanese-LaTeX-command-default "pLaTeX")
+  (setq TeX-interactive-mode "I")
+  (setf (cdr (assoc "\\.ltx\\'" auto-mode-alist)) 'japanese-latex-mode)
+  ;;(princ (assoc "\\.ltx\\'" auto-mode-alist))
+  ;;(princ (assoc "\\.tex\\'" auto-mode-alist))
+  ;;(setf (cdr (assoc "\\.tex\\'" auto-mode-alist)) 'japanese-plain-tex-mode)
+  )
