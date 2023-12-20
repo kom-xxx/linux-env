@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="niceapp.svg"
+   inkscape:export-filename="node_interact"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="3.2507654"
+     inkscape:cx="475.73412"
+     inkscape:cy="600.16635"
+     inkscape:window-width="3830"
+     inkscape:window-height="2132"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.49999999"
+       spacingy="0.50000001"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="10"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker95"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path95" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker83"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path83" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker68"
+       refX="5"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path68" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker24"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path24" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="48.5"
+       y="37.999996"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0;fill:#000000;fill-opacity:1"
+         x="48.5"
+         y="37.999996" /></text>
+    <circle
+       id="path12"
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.264583"
+       cx="49.382366"
+       cy="68.388687"
+       r="0" />
+    <g
+       id="g1"
+       transform="matrix(0.99999998,0,0,0.99984371,1.6978347e-6,-9.9945294)"
+       inkscape:export-filename="nice_sys_modules.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         style="fill:#0000ff;fill-opacity:0.25;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect6"
+         width="120"
+         height="34.999992"
+         x="15"
+         y="55" />
+      <rect
+         style="fill:#ff00ff;fill-opacity:0.25;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect11"
+         width="60"
+         height="14.999993"
+         x="75"
+         y="95" />
+      <rect
+         style="fill:#008080;fill-opacity:0.25;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect10"
+         width="55"
+         height="15.011723"
+         x="15.000001"
+         y="95" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.34;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect4"
+         width="30"
+         height="15"
+         x="50.032097"
+         y="35" />
+      <rect
+         style="fill:#ff0000;fill-opacity:0.25;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect1"
+         width="50"
+         height="14.999999"
+         x="85"
+         y="35" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="23.598299"
+         y="11.088434"
+         id="text1"
+         transform="translate(3.5502153,4.9781199)"><tspan
+           x="85"
+           y="38.530825"
+           id="tspan1">VideoProcessingSystem</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="50.901047"
+         y="43.955212"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="stroke-width:0"
+           x="50.901047"
+           y="43.955212">SensCord client</tspan></text>
+      <rect
+         style="fill:#ffff00;fill-opacity:0.34;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect5"
+         width="30.000002"
+         height="14.999999"
+         x="14.999999"
+         y="35" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="15.075375"
+         y="43.955208"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="stroke-width:0"
+           x="15.075375"
+           y="43.955208">SensCord server</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="15.681917"
+         y="58.918308"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="fill:#000000;fill-opacity:1;stroke-width:0"
+           x="15.681917"
+           y="58.918308">NiceApp</tspan></text>
+      <rect
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="rect8"
+         width="40"
+         height="10.000005"
+         x="20.000002"
+         y="75" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="35.42094"
+         y="81.410583"
+         id="text8"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="fill:#ffffff;stroke-width:0"
+           x="35.42094"
+           y="81.410583">Main</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="35.965137"
+         y="103.44495"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="fill:#000000;stroke-width:0"
+           x="35.965137"
+           y="103.44495">System</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="98.723198"
+         y="103.95521"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="stroke-width:0"
+           x="98.723198"
+           y="103.95521">NICElib</tspan></text>
+      <rect
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.0308492;stroke-dasharray:none"
+         id="rect12"
+         width="39.994152"
+         height="10.054053"
+         x="19.990425"
+         y="59.990425" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83854px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="34.583622"
+         y="67.168602"
+         id="text12"
+         transform="scale(1.0109462,0.98917232)"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           style="fill:#ffffff;stroke-width:0"
+           x="34.583622"
+           y="67.168602">Node</tspan></text>
+      <rect
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.053166;stroke-dasharray:none"
+         id="rect15"
+         width="29.971836"
+         height="9.9968328"
+         x="65.001579"
+         y="60.001583" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none"
+         x="72.028473"
+         y="65.964317"
+         id="text15"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           style="fill:#ffffff;stroke-width:0.05"
+           x="72.028473"
+           y="65.964317">DevieIpc</tspan></text>
+      <rect
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.0531994;stroke-dasharray:none"
+         id="rect16"
+         width="30.000006"
+         height="9.999999"
+         x="100.0266"
+         y="60.0266" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none"
+         x="108.10562"
+         y="66.43718"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           style="fill:#ffffff;stroke-width:0.05"
+           x="108.10562"
+           y="66.43718">NiceRoi</tspan></text>
+      <rect
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.0529446;stroke-dasharray:none"
+         id="rect17"
+         width="29.722057"
+         height="9.9970541"
+         x="65.138969"
+         y="75" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none"
+         x="69.261093"
+         y="80.883507"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="fill:#ffffff;stroke-width:0.05"
+           x="69.261093"
+           y="80.883507">HttpXaction</tspan></text>
+      <rect
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.053166;stroke-dasharray:none"
+         id="rect18"
+         width="29.971836"
+         height="9.9968328"
+         x="100.10887"
+         y="75.001579" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none"
+         x="104.66384"
+         y="81.008942"
+         id="text18"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="fill:#ffffff;stroke-width:0.05"
+           x="104.66384"
+           y="81.008942">JpegEncode</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:100;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       x="53.182972"
+       y="121.82121"
+       id="text57"><tspan
+         sodipodi:role="line"
+         id="tspan57"
+         style="stroke-width:0.3;fill:#000000;stroke:#000000;stroke-opacity:1"
+         x="53.182972"
+         y="121.82121" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="66.467079"
+       y="172.05814"
+       id="text81"><tspan
+         sodipodi:role="line"
+         id="tspan81"
+         style="stroke-width:0.3"
+         x="66.467079"
+         y="172.05814" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono';text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="164.5531"
+       y="173.91905"
+       id="text100"><tspan
+         sodipodi:role="line"
+         id="tspan100"
+         style="stroke-width:0.3"
+         x="164.5531"
+         y="173.91905" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.3"
+         id="tspan101"
+         x="164.5531"
+         y="177.44684" /></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:0.25;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect2"
+       width="115.00001"
+       height="109.99996"
+       x="85"
+       y="115.00002" />
+    <rect
+       style="fill:#ff00ff;fill-opacity:0.25;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect3"
+       width="45"
+       height="14.999999"
+       x="15.000001"
+       y="125" />
+    <rect
+       style="fill:#008080;fill-opacity:0.25;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect7"
+       width="45.018463"
+       height="15.009377"
+       x="15"
+       y="145" />
+    <rect
+       style="fill:#00ff00;fill-opacity:0.34;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect9"
+       width="30"
+       height="14.999999"
+       x="14.999999"
+       y="185" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.25;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect13"
+       width="45"
+       height="14.997655"
+       x="14.999999"
+       y="205" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;white-space:pre;shape-inside:url(#rect13);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="23.598299"
+       y="11.088434"
+       id="text21"
+       transform="translate(0.90438183,4.9773423)"><tspan
+         x="15"
+         y="208.53055"
+         id="tspan20">VideoProcessingSystem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="15.867713"
+       y="193.96896"
+       id="text23"
+       transform="scale(1.0000782,0.99992181)"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="stroke-width:0"
+         x="15.867713"
+         y="193.96896">SensCord client</tspan></text>
+    <rect
+       style="fill:#ffff00;fill-opacity:0.34;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect23"
+       width="29.999994"
+       height="15"
+       x="15.000003"
+       y="165" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="15.074197"
+       y="173.96739"
+       id="text25"
+       transform="scale(1.0000782,0.99992181)"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="stroke-width:0"
+         x="15.074197"
+         y="173.96739">SensCord server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88044px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="85.989647"
+       y="119.1146"
+       id="text26"
+       transform="scale(1.0001238,0.99987622)"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="fill:#000000;fill-opacity:1;stroke-width:0"
+         x="85.989647"
+         y="119.1146">NiceApp</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       id="rect26"
+       width="20.069508"
+       height="14.998445"
+       x="174.93048"
+       y="129.85001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none"
+       x="180.37209"
+       y="138.77045"
+       id="text27"
+       transform="scale(1.0000782,0.99992181)"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="fill:#ffffff;stroke-width:0.05;stroke-dasharray:none"
+         x="180.37209"
+         y="138.77045">Main</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="31.05892"
+       y="153.24065"
+       id="text29"
+       transform="scale(1.0000782,0.99992181)"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="fill:#000000;stroke-width:0"
+         x="31.05892"
+         y="153.24065">System</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="31.073273"
+       y="133.96429"
+       id="text35"
+       transform="scale(1.0000782,0.99992181)"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         style="stroke-width:0"
+         x="31.073273"
+         y="133.96429">NICElib</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.059447;stroke-dasharray:none"
+       id="rect35"
+       width="14.940553"
+       height="99.940552"
+       x="130.02972"
+       y="120.02972" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83214px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none"
+       x="130.82169"
+       y="171.05351"
+       id="text36"
+       transform="scale(1.0126356,0.98752206)"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         style="fill:#ffffff;stroke-width:0.05;stroke-dasharray:none"
+         x="130.82169"
+         y="171.05351">Node</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.0531618;stroke-dasharray:none"
+       id="rect36"
+       width="29.971836"
+       height="9.9952707"
+       x="90.086685"
+       y="207.50122" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.049996;stroke-dasharray:none"
+       x="97.105988"
+       y="213.47968"
+       id="text37"
+       transform="scale(1.0000782,0.99992181)"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         style="fill:#ffffff;stroke-width:0.0499961"
+         x="97.105988"
+         y="213.47968">DevieIpc</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.0434337;stroke-dasharray:none"
+       id="rect37"
+       width="20.000011"
+       height="9.998436"
+       x="174.99998"
+       y="160.00078" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.049996;stroke-dasharray:none"
+       x="178.06511"
+       y="166.42337"
+       id="text38"
+       transform="scale(1.0000782,0.99992181)"><tspan
+         sodipodi:role="line"
+         id="tspan38"
+         style="fill:#ffffff;stroke-width:0.0499961"
+         x="178.06511"
+         y="166.42337">NiceRoi</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.0530114;stroke-dasharray:none"
+       id="rect38"
+       width="29.946987"
+       height="9.9469891"
+       x="90.026512"
+       y="167.61151" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88026px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.049996;stroke-dasharray:none"
+       x="94.364639"
+       y="173.50784"
+       id="text39"
+       transform="scale(1.0000782,0.99992181)"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         style="fill:#ffffff;stroke-width:0.0499961"
+         x="94.364639"
+         y="173.50784">HttpXaction</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.059343;stroke-dasharray:none"
+       id="rect39"
+       width="24.940657"
+       height="14.967162"
+       x="170.0322"
+       y="190.00316" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87098px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0498764;stroke-dasharray:none"
+       x="171.64317"
+       y="198.99307"
+       id="text40"
+       transform="scale(1.0025312,0.9974752)"><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         style="fill:#ffffff;stroke-width:0.0498765"
+         x="171.64317"
+         y="198.99307">JpegEncode</tspan></text>
+    <path
+       style="fill:none;stroke:#4cbf87;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;marker-start:url(#marker24)"
+       d="M 44.999997,169.99998 H 95"
+       id="path57" />
+    <circle
+       id="path58"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="193.64842"
+       cy="122.45151"
+       r="0.016199013" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="68.5"
+       y="169"
+       id="text61"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="68.5"
+         y="169">configure</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="68.5"
+         y="172.52779"
+         id="tspan61">startSensorStreaming</tspan></text>
+    <path
+       style="fill:none;stroke:#4cbf87;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;marker-start:url(#marker24)"
+       d="M 44.999998,174.99999 H 95.000001"
+       id="path63" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="68"
+       y="177.5"
+       id="text64"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="68"
+         y="177.5"
+         id="tspan64">stopSensorStreaming</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="76.39077"
+       y="189.27266"
+       id="text65"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="76.39077"
+         y="189.27266"
+         id="tspan65">Start, RegisterFrameCallback, Stop</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="62.833717"
+       y="197.42177"
+       id="text66"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="62.833717"
+         y="197.42177"
+         id="tspan66">call FrameCB</tspan></text>
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker68)"
+       d="m 130.29012,190.18039 -84.952651,-0.0914"
+       id="path67" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker68)"
+       d="m 45.112635,194.89928 84.952645,0.0914"
+       id="path69" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:0.3, 0.9;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 90,169.99998 c 0,0 30,0 30,0"
+       id="path70" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:0.3, 0.9;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 90.986509,175.06023 c 0,0 30.000001,0 30.000001,0"
+       id="path71" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.420982;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 129.84152,169.91227 c -9.77923,0.1496 -9.77923,0.1496 -9.77923,0.1496"
+       id="path72" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.420982;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 129.93504,175.04828 h -9.87275"
+       id="path73" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:0.3, 0.9;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 89.892889,209.99552 c 0,0 30.000001,0 30.000001,0"
+       id="path75" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#DartArrow)"
+       d="M 95,209.99998 H 59.999999"
+       id="path77"
+       inkscape:label="path77" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="75.5"
+       y="209"
+       id="text80"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="75.5"
+         y="209"
+         id="tspan80">setup, start, stop</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="74.5"
+       y="217.5"
+       id="text82"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="74.5"
+         y="217.5"
+         id="tspan82">record, getdata</tspan></text>
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.306192;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 60.106367,125.99998 H 185"
+       id="path82" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:0.3, 0.9;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 89.892889,214.99999 c 0,0 30.000001,0 30.000001,0"
+       id="path84" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#DartArrow)"
+       d="M 95,214.99999 H 59.999999"
+       id="path86" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="92.271835"
+       y="138.05814"
+       id="text86"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="92.271835"
+         y="138.05814"
+         id="tspan88">SetAiTime</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="92.271835"
+         y="141.58592"
+         id="tspan24">SendSceneMarkVideo, SendSceneDataVideo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="78.080551"
+       y="131.74998"
+       id="text87"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="78.080551"
+         y="131.74998"
+         id="tspan87">StartNode, StopNode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="163.49998"
+       y="131.05832"
+       id="text89"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="163.49998"
+         y="131.05832"
+         id="tspan89">create, Start</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="162.42189"
+       y="142.12285"
+       id="text91"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="162.42189"
+         y="142.12285"
+         id="tspan91">Stop, destroy</tspan></text>
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.328154;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker95)"
+       d="M 174.98592,132.07038 H 145.01408"
+       id="path94" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.328154;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker95)"
+       d="M 174.98592,143.04857 H 145.01408"
+       id="path96" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.328154;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker95)"
+       d="m 145.01408,165.00496 h 29.97184"
+       id="path97" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="162.44579"
+       y="167.56987"
+       id="text97"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="162.44579"
+         y="167.56987"
+         id="tspan97">manipulate</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="162.44579"
+         y="171.09766"
+         id="tspan99">ROI parameters</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="162.44579"
+         y="174.62544"
+         id="tspan102">on</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="162.44579"
+         y="178.15323"
+         id="tspan103">sensor/thumbnail</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="162.44579"
+         y="181.68102"
+         id="tspan104">coordinates</tspan></text>
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker83)"
+       d="M 130,145.99999 H 59.999999"
+       id="path104" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="87.31459"
+       y="148.77266"
+       id="text105"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="87.31459"
+         y="148.77266"
+         id="tspan105">register mq_fd/timerfd to epoll event</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="74.510124"
+       y="162.19489"
+       id="text106"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="74.510124"
+         y="162.19489"
+         id="tspan106">wait epoll event</tspan></text>
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker83)"
+       d="M 130,158.99999 H 59.999999"
+       id="path106" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker83)"
+       d="M 130,138.49998 H 60.000002"
+       id="path2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="155.26671"
+       y="191.02916"
+       id="text7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="155.26671"
+         y="191.02916"
+         id="tspan7">Jpeg encode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="157.76671"
+       y="205.55832"
+       id="text11"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="157.76671"
+         y="205.55832"
+         id="tspan11">draw</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="157.76671"
+         y="209.08611"
+         id="tspan13">line, rectangle, text</tspan></text>
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker83)"
+       d="M 130,132.49998 H 60.000001"
+       id="path5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="88.5"
+       y="125.5"
+       id="text14"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="88.5"
+         y="125.5"
+         id="tspan14">call SceneModeCB</tspan></text>
+    <path
+       style="opacity:0.99;fill:#ff0000;fill-opacity:0.25;stroke:#4cbf85;stroke-width:0.420982;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.06229,209.95309 h 9.87275"
+       id="path14" />
+    <path
+       style="opacity:0.99;fill:#ff0000;fill-opacity:0.25;stroke:#4cbf85;stroke-width:0.420982;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.06229,214.93949 h 9.87275"
+       id="path15" />
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker83)"
+       d="M 130,152.99998 H 60.000001"
+       id="path16" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="70.5"
+       y="156"
+       id="text19"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="70.5"
+         y="156"
+         id="tspan19">settimer</tspan></text>
+    <path
+       style="opacity:0.99;fill:#ff0000;fill-opacity:0.25;stroke:#4cbf85;stroke-width:0.335;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker95)"
+       d="m 145.15243,191.99953 h 24.96514"
+       id="path19" />
+    <path
+       style="opacity:0.99;fill:#ff0000;fill-opacity:0.25;stroke:#4cbf85;stroke-width:0.335;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker95)"
+       d="m 145.02035,202.93006 h 24.96509"
+       id="path20" />
+    <path
+       style="opacity:0.99;fill:#ff0000;fill-opacity:0.25;stroke:#4cbf85;stroke-width:0.335;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker95)"
+       d="m 145.0203,197.4405 h 24.95821"
+       id="path21" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="154.76671"
+       y="196.61664"
+       id="text22"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="154.76671"
+         y="196.61664"
+         id="tspan22">image format</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="154.76671"
+         y="200.14442"
+         id="tspan5">conversion</tspan></text>
+    <path
+       style="fill:#000000;stroke:#4cbf86;stroke-width:0.328154;stroke-linecap:square;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker95)"
+       d="M 174.98592,137.55948 H 145.01408"
+       id="path25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:2.82223px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin';word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="163.61662"
+       y="137"
+       id="text28"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         x="163.61662"
+         y="137"
+         id="tspan28">SetSceneMode</tspan></text>
+    <path
+       style="opacity:0.99;fill:#ff0000;fill-opacity:0.25;stroke:#4cbf85;stroke-width:0.284386;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker95)"
+       d="m 185,125.99998 v 4.04377"
+       id="path28" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:3.88056px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Light';word-spacing:0px;opacity:0.99;fill:#ff0000;fill-opacity:0.25;stroke:#4cbf85;stroke-width:0.3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       x="79"
+       y="197.49998"
+       id="text30"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.3"
+         id="tspan31"
+         x="79"
+         y="197.49998" /></text>
+  </g>
+</svg>
